@@ -9,20 +9,20 @@
 
 | Atividade    | Repositório                                               | GitHub Pages                                         |
 | ------------ | --------------------------------------------------------- | ---------------------------------------------------- |
-| Atividade 1  | [Repositório](https://github.com/Adriel12179/Atividade1)  | [Página](https://Adriel12179.github.io/Atividade-1/)  |
-| Atividade 2  | [Repositório](https://github.com/Adriel12179/atividade2)  | [Página](https://Adriel12179.github.io/atividade2/)  |
-| Atividade 3  | [Repositório](https://github.com/Adriel12179/atividade3)  | [Página](https://Adriel12179.github.io/atividade3/)  |
-| Atividade 4  | [Repositório](https://github.com/Adriel12179/atividade4)  | [Página](https://Adriel12179.github.io/atividade4/)  |
-| Atividade 5  | [Repositório](https://github.com/Adriel12179/atividade5)  | [Página](https://Adriel12179.github.io/atividade5/)  |
-| Atividade 6  | [Repositório](https://github.com/Adriel12179/atividade6)  | [Página](https://Adriel12179.github.io/atividade6/)  |
-| Atividade 7  | [Repositório](https://github.com/Adriel12179/atividade7)  | [Página](https://Adriel12179.github.io/atividade7/)  |
-| Atividade 8  | [Repositório](https://github.com/Adriel12179/atividade8)  | [Página](https://Adriel12179.github.io/atividade8/)  |
-| Atividade 9  | [Repositório](https://github.com/Adriel12179/atividade9)  | [Página](https://Adriel12179.github.io/atividade9/)  |
-| Atividade 10 | [Repositório](https://github.com/Adriel12179/atividade10) | [Página](https://Adriel12179.github.io/atividade10/) |
-| Atividade 11 | [Repositório](https://github.com/Adriel12179/atividade11) | [Página](https://Adriel12179.github.io/atividade11/) |
-| Atividade 12 | [Repositório](https://github.com/Adriel12179/atividade12) | [Página](https://Adriel12179.github.io/atividade12/) |
-| Atividade 13 | [Repositório](https://github.com/Adriel12179/atividade13) | [Página](https://Adriel12179.github.io/atividade13/) |
-| Atividade 14 | [Repositório](https://github.com/Adriel12179/atividade14) | [Página](https://Adriel12179.github.io/atividade14/) |
+| Atividade 1  | [Repositório](https://github.com/Adriel12179/Atividade-1)  | [Página](https://Adriel12179.github.io/Atividade-1/)  |
+| Atividade 2  | [Repositório](https://github.com/Adriel12179/Atividade-2)  | [Página](https://Adriel12179.github.io/Atividade-2/)  |
+| Atividade 3  | [Repositório](https://github.com/Adriel12179/Atividade-3)  | [Página](https://Adriel12179.github.io/Atividade-3/)  |
+| Atividade 4  | [Repositório](https://github.com/Adriel12179/Atividade-4)  | [Página](https://Adriel12179.github.io/Atividade-4/)  |
+| Atividade 5  | [Repositório](https://github.com/Adriel12179/Atividade-5)  | [Página](https://Adriel12179.github.io/Atividade-5/)  |
+| Atividade 6  | [Repositório](https://github.com/Adriel12179/Atividade-6)  | [Página](https://Adriel12179.github.io/Atividade-6/)  |
+| Atividade 7  | [Repositório](https://github.com/Adriel12179/Atividade-7)  | [Página](https://Adriel12179.github.io/Atividade-7/)  |
+| Atividade 8  | [Repositório](https://github.com/Adriel12179/Atividade-8)  | [Página](https://Adriel12179.github.io/Atividade-8/)  |
+| Atividade 9  | [Repositório](https://github.com/Adriel12179/Atividade-9)  | [Página](https://Adriel12179.github.io/Atividade-9/)  |
+| Atividade 10 | [Repositório](https://github.com/Adriel12179/Atividade-10) | [Página](https://Adriel12179.github.io/Atividade-10/) |
+| Atividade 11 | [Repositório](https://github.com/Adriel12179/Atividade-11) | [Página](https://Adriel12179.github.io/Atividade-11/) |
+| Atividade 12 | [Repositório](https://github.com/Adriel12179/Atividade-12) | [Página](https://Adriel12179.github.io/Atividade-12/) |
+| Atividade 13 | [Repositório](https://github.com/Adriel12179/Atividade13) | [Página](https://Adriel12179.github.io/Atividade13/) |
+| Atividade 14 | [Repositório](https://github.com/Adriel12179/Atividade-14) | [Página](https://Adriel12179.github.io/Atividade-14/) |
 
 ## 🚀 Projetos
 
