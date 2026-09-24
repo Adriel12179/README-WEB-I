@@ -3,13 +3,13 @@
 * 4° Semestre - T2
 
 **Dev:** Fco Adriel Miranda Martins
-**  Repositório destinado as atividades e projetos da disciplina de WEB I
+**  Repositório destinado as atividades e projetos da disciplina de WEB I**
 
 ## 📚 Atividades
 
 | Atividade    | Repositório                                               | GitHub Pages                                         |
 | ------------ | --------------------------------------------------------- | ---------------------------------------------------- |
-| Atividade 1  | [Repositório](https://github.com/Adriel12179/atividade1)  | [Página](https://Adriel12179.github.io/atividade1/)  |
+| Atividade 1  | [Repositório](https://github.com/Adriel12179/atividade1)  | [Página](https://Adriel12179.github.io/Atividade-1/)  |
 | Atividade 2  | [Repositório](https://github.com/Adriel12179/atividade2)  | [Página](https://Adriel12179.github.io/atividade2/)  |
 | Atividade 3  | [Repositório](https://github.com/Adriel12179/atividade3)  | [Página](https://Adriel12179.github.io/atividade3/)  |
 | Atividade 4  | [Repositório](https://github.com/Adriel12179/atividade4)  | [Página](https://Adriel12179.github.io/atividade4/)  |
